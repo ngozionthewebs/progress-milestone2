@@ -330,3 +330,35 @@ button{
     margin-left: 49%;
 }
 
+.player-line{
+    width: 500px;
+    height: 50px;
+    margin-top: 100px;
+}
+
+.line{
+    width: 1270px;
+    height: 5px;
+    background-color: lightgrey;
+    margin-left: 7%;
+
+}
+
+.line-fill{
+    width: 50%;
+    height: 5px;
+    background-color:#66FCF1;
+
+}
+
+.marker{
+    width: 30px;
+    height: 30px;
+    background-color:#66FCF1;
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top: -18px;
+}
+
+
+
